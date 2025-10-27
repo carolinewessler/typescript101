@@ -17,3 +17,5 @@ function signUpUser(name: string, email: string, isPaid: boolean) {
 signUpUser("Alice", "alice@gmail.com", true);
 
 let loginUser = (name: string, email: string, isPaid: boolean = false) => {};
+
+export {}
